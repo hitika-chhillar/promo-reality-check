@@ -2,7 +2,6 @@
 
 Does a retail promotion really move sales? An analysis of Rossmann store data (1,115 stores, Jan 2013 to Jul 2015) that separates the naive promo lift from a more careful estimate.
 
-![Dashboard](reports/dashboard.png)
 
 ## Headline results
 
